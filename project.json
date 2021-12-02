@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Shutter Stock",
+    "img": " https://heuristic-bose-fe2c35.netlify.app/images/assignment12.png",
+    "liveLink": " https://doctors-portal-e8a61.web.app/",
+    "codeLink": " https://github.com/arifphero4/niche-website-client-side",
+    "describe": "Full-stack niche-related website & users can sign up & log in via custom or Google. Fully responsive UI with slider, spinner & hover effect. Users can book or purchase a product, cancel an order & add review. Have Admin & User dashboard. Admin can delete, add, manage services & can make a user admin."
+  },
+  {
+    "id": 2,
+    "name": " Trevily Tourism",
+    "img": "https://heuristic-bose-fe2c35.netlify.app/images/assignment11.png",
+    "liveLink": " https://tourism-related-website-55c3c.web.app/",
+    "codeLink": " https://github.com/arifphero4/tourism-website-client",
+    "describe": "Full-stack niche-related website & users can sign up & log in via custom or Google. Fully responsive UI with slider, spinner & hover effect. Users can book or purchase a product, cancel an order & add review. Have Admin & User dashboard. Admin can delete, add, manage services & can make a user admin."
+  },
+  {
+    "id": 3,
+    "name": "Dental Care",
+    "img": " https://heuristic-bose-fe2c35.netlify.app/images/assignment10.png",
+    "liveLink": " https://healthcare-related-websi-5c9a9.web.app/",
+    "codeLink": "https://github.com/arifphero4/healthcare-project-website",
+    "describe": "Full-stack niche-related website & users can sign up & log in via custom or Google. Fully responsive UI with slider, spinner & hover effect. Users can book or purchase a product, cancel an order & add review. Have Admin & User dashboard. Admin can delete, add, manage services & can make a user admin."
+  },
+  {
+    "id": 4,
+    "name": "Mac Book Pro",
+    "img": "https://heuristic-bose-fe2c35.netlify.app/images/assignment5.png",
+    "liveLink": "https://mac-bookpro-arifphero4.netlify.app/",
+    "codeLink": "https://github.com/arifphero4/mac-book-pro-assignment5",
+    "describe": "Full-stack niche-related website & users can sign up & log in via custom or Google. Fully responsive UI with slider, spinner & hover effect. Users can book or purchase a product, cancel an order & add review. Have Admin & User dashboard. Admin can delete, add, manage services & can make a user admin."
+  },
+  {
+    "id": 5,
+    "name": "Honda CBR Bikes",
+    "img": "https://heuristic-bose-fe2c35.netlify.app/images/assignment3.jpg",
+    "liveLink": "https://honda-cbr-arifphero4.netlify.app/",
+    "codeLink": "https://github.com/arifphero4/honda-cbr-bootstrap-assignment3",
+    "describe": "Full-stack niche-related website & users can sign up & log in via custom or Google. Fully responsive UI with slider, spinner & hover effect. Users can book or purchase a product, cancel an order & add review. Have Admin & User dashboard. Admin can delete, add, manage services & can make a user admin."
+  },
+  {
+    "id": 6,
+    "name": "",
+    "img": "https://heuristic-bose-fe2c35.netlify.app/images/assignment2.png",
+    "liveLink": "https://arifphero4.github.io/responsive-football/",
+    "codeLink": "https://github.com/arifphero4/responsive-football",
+    "describe": "Full-stack niche-related website & users can sign up & log in via custom or Google. Fully responsive UI with slider, spinner & hover effect. Users can book or purchase a product, cancel an order & add review. Have Admin & User dashboard. Admin can delete, add, manage services & can make a user admin."
+  }
+]
