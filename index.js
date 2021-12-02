@@ -7,6 +7,7 @@ const ObjectId = require("mongodb").ObjectId;
 
 const port = process.env.PORT || 5000;
 
+//middlewire
 app.use(cors());
 app.use(express.json());
 
@@ -35,16 +36,15 @@ async function run() {
       const items = await portfolioItemCollection.findOne(query);
       res.json(items);
     });
-
   } finally {
     // await client.close()
   }
 }
 run().catch(console.dir);
 
-app.get('/', (req, res)=> {
-       res.send('Running Arif\'s portfolio')
-})
+app.get("/", (req, res) => {
+  res.send("Running Arif's portfolio");
+});
 app.listen(port, () => {
   console.log("Arif hasan fu portfolio server is running " + port);
 });
